@@ -1,0 +1,8 @@
+# Install PyTorch first:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+pillow>=10.2

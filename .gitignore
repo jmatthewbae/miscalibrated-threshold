@@ -1,0 +1,9 @@
+data/
+.venv/
+__pycache__/
+outputs/checkpoints/
+outputs/predictions/
+outputs/results/
+outputs/figures/
+._*
+.DS_Store
